@@ -28,31 +28,18 @@
 
 #  🙋 Hello
 
-<table>
-  
-<tr><td>
 
 ### 🤺 About Me
 
-<img align="right" src="https://q1.qlogo.cn/g?b=qq&nk=3500691618&s=640" />
 
-<p>&emsp;&emsp;Welcome</p>
-
-</td></tr>
-
-<tr><td>
 
 ### 🏢 Work Experience
 
-<img align="right" src="https://raw.githubusercontent.com/Y5neKO/Y5neKO/main/img/AH.png" />
-
-- [DBAPPSecurity](https://www.dbappsecurity.com.cn/) &emsp; 📌 2024 —— Now
-
-  - 工作岗位：安全服务工程师
-
-</td></tr>
-
-</table>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="./img/AH.png"/>](#)
+**DBAPPSecurity** \
+**Security Service Engineer** • Full-time \
+Linguagens & Tecnologias: `Python`, `Java`, `Penetration` \
+Chengdu DBAPPSecurity Information Technology Co., Ltd
 
 
 <!-- ########################################## 分割 ########################################## -->
