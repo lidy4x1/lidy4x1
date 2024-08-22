@@ -35,7 +35,7 @@
 
 ### 🏢 Work Experience
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="./img/AH.png"/>](#)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/Y5neKO/Y5neKO/blob/main/img/AH.png"/>](#)
 **DBAPPSecurity** \
 **Security Service Engineer** • Full-time \
 Linguagens & Tecnologias: `Python`, `Java`, `Penetration` \
