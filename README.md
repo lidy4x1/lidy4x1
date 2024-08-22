@@ -34,7 +34,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://q1.qlogo.cn/g?b=qq&nk=3500691618&s=640" />
+<img align="right" src="https://q1.qlogo.cn/g?b=qq&nk=3500691618&s=640" />
 
 <p>&emsp;&emsp;Welcome</p>
 
@@ -44,7 +44,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://raw.githubusercontent.com/Y5neKO/Y5neKO/main/img/AH.png" />
+<img align="right" src="https://raw.githubusercontent.com/Y5neKO/Y5neKO/main/img/AH.png" />
 
 - [DBAPPSecurity](https://www.dbappsecurity.com.cn/) &emsp; 📌 2024 —— Now
 
